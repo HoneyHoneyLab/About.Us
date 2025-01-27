@@ -1,14 +1,15 @@
-# About.Us
+## About.Us
 
-Hi there, 
+Hi there,
 
-Welcome. This is Honey Honey Lab, we are a small team of people who shares interest in Technology and Coffee. The combo sounds wire, but it happens. 
+Welcome to Honey Honey Lab. We’re a small team of people with a shared passion for technology and coffee. It might sound like an odd combo, but it works for us. 
 
-We code, develop, 3D-print, CNC, roast and make stuff. 
+We code, develop, 3D-print, CNC, roast, and make all kinds of things.
+
+Feel free to reach out to us by emailing Support@HoneyHoneyLab.com.
 
 ## FYI
 
-Previously we ran an ETSY shop with Star Seller Status,  under the name < Honey Honey Trading >. Due to the difficulty of communicating with ETSY management & ETSY custom support, we have decided to close the ETSY shop and focus on our own website and shops in Tindie and eBay.
+Previously, we operated an Etsy shop with Star Seller status under the name [Honey Honey Trading](https://www.etsy.com/au/shop/HoneyHoneyTrading). Due to the challenges of communicating with Etsy management and customer support, we have decided to close our Etsy shop and shift our focus to our own websites, as well as our shops on Tindie and eBay.
 
-To clients who have purchased via our ETSY shop, we will honour the product warrenty and provide tech support. Please feel free to email us via Support@honeyHoneylab.com
-
+For customers who have made purchases through our Etsy shop, we will continue to honor product warranties and provide tech support. Please feel free to email us at Support@HoneyHoneyLab.com.
